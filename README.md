@@ -1,6 +1,6 @@
 # MyAgenda
 __For Educational Prurpose Only__
-[This is just for testing and propmotional purpose]
+[This is just for testing and promotional purpose]
 
 ## Disclaimer
 
